@@ -1,0 +1,3 @@
+Para poder ejecutar la PEC correctamente y poder visualizar el Mapa del último apartado hay que descargar y copiar las 
+librerias del fichero libreria PEC.rar
+La ruta para el copiado está detallada dentro del fichero rar
